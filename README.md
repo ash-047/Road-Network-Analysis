@@ -5,7 +5,7 @@
 Road network data is read from a CSV file, providing flexibility in working with different road network datasets.
 </p>
 
-<p>To run the code please do ensure the dataset (By default: Hosa.csv, you can change it to: (4) Chesapeake.csv as well) and the driver code in 'Project.c' are in the same directory</p>
+To run the code please do ensure the dataset (By default: `Hosa.csv`, you can change it to: (4) `Chesapeake.csv` as well) and the driver code in `Project.c` are in the same directory
 
 <h2>Note:</h2>
 
