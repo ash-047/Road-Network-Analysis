@@ -1,6 +1,9 @@
 # Road-Network-Analysis
 
-<p>This project is our humble approach to road network analysis for using only unweighted undirected graphs</p>
+<p>The "Road Network Analysis" project is a program designed to analyze and gain insights from road networks represented as undirected graphs. The project provides a set of tools and functionalities for processing road network data, performing graph-based calculations, and helping users understand the properties and characteristics of the network.
+
+Road network data is read from a CSV file, providing flexibility in working with different road network datasets.
+</p>
 
 <p>To run the code please do ensure the dataset (By default: Hosa.csv, you can change it to: (4) Chesapeake.csv as well) and the driver code in 'Project.c' are in the same directory</p>
 
